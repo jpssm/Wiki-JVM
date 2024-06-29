@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['object_2eh_0',['object.h',['../object_8h.html',1,'']]]
+  ['method_2eh_0',['method.h',['../method_8h.html',1,'']]]
 ];
